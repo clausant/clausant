@@ -8,13 +8,11 @@
         <h1>Mi Perfil de GitHub</h1>
     </header>
     <section>
-        <h2>¡Hola, soy Claudio Santander!</h2>
         <p>¡Bienvenido a mi perfil de GitHub!</p>
     </section>
     <section>
         <h2>Información de Contacto</h2>
-        <p>Nombre: Claudio Santander</p>
-        <p>GitHub: <a href="https://github.com/tuusuario">https://github.com/clausant</a></p>
+         <p>GitHub: <a href="https://github.com/tuusuario">https://github.com/clausant</a></p>
         <p>Correo Electrónico: clausant@gmail.com</p>
     </section>
     <h3 align="left">Languages and Tools:</h3>
