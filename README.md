@@ -1,11 +1,9 @@
 <h1 align="center">Hola, soy Claudio 👋</h1>
-<h3 align="center">Head of AI & Data · Arquitectura IA · Gobierno · Cloud</h3>
+<h3 align="center">Arquitectura · Cloud</h3>
 
 ---
 
 ### Sobre mí
-
-Llevo más de 18 años en tecnología y hoy mi foco está en **convertir IA y datos en decisiones de negocio**. Me gusta trabajar donde se cruzan tres cosas: arquitectura, datos e impacto real en las personas. Construyo equipos, frameworks y plataformas — no proyectos sueltos.
 
 Me reconozco como alguien curioso, paciente y bastante obsesivo con que las cosas queden bien hechas. Disfruto enseñar, escribir y compartir lo que aprendo. Cuando algo me apasiona, lo profundizo hasta entenderlo de verdad.
 
