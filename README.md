@@ -1,21 +1,22 @@
-Sobre mí
+## Sobre mí
 
 Llevo casi dos décadas en tecnología y los últimos años me dedico a lo mismo: armar áreas desde cero. Arquitectura empresarial, gobierno de datos y plataformas de IA que llegan a producción — no que se quedan en PoC.
 
 Me gusta meterme al detalle: diseñar, decidir y bajar a terreno, más que gobernar desde lejos. Soy curioso y bastante obsesivo con que las cosas queden bien hechas. Disfruto enseñar y escribir sobre lo que aprendo; parte de lo que hay acá son experimentos de eso.
 
-En qué trabajo
+## En qué trabajo
 
+🤖 **IA en producción** — asistentes multi-agente sobre Bedrock/Claude (supervisor + especialistas), motores de recomendación y pricing con SageMaker, RAG sobre grafos de código con Memgraph. Servidor MCP propio conectado a mis sistemas (Athena, OpenSearch, Jira, Confluence, GitHub). Todo con desarrollo spec-driven, contract testing de agentes, guardrails y observabilidad.
 
-🤖 IA en producción — motores de recomendación y pricing con SageMaker, RAG sobre grafos de código, y asistentes con Bedrock/Claude. Servidor MCP propio conectado a mis sistemas (Athena, OpenSearch, Jira, Confluence, GitHub).
-🏛️ Arquitectura empresarial multipaís — modelos de referencia, gobierno de APIs y migración de legados a escala (4 países, cientos de integraciones, SAP y microservicios).
-🗄️ Datos — DataLake Medallion (S3/Glue/Athena/Redshift), catalogación, capa semántica y gobierno con metodología DAMA.
-☁️ Cloud — principalmente AWS; también GCP y Azure.
+🏛️ **Arquitectura empresarial multipaís** — modelos de referencia, gobierno de APIs y migración de legados a escala (4 países, cientos de integraciones, SAP y microservicios).
 
+🗄️ **Datos** — DataLake Medallion (S3/Glue/Athena/Redshift), catalogación, capa semántica y gobierno con metodología DAMA.
 
-Stack
+☁️ **Cloud** — principalmente AWS; también GCP y Azure.
 
-IA & Datos
+## Stack
+
+**IA & Datos**
 
 <p>
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
@@ -23,12 +24,15 @@ IA & Datos
   <img src="https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="SageMaker" />
   <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Strands%20Agents-4B5563?style=for-the-badge" alt="Strands Agents" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
   <img src="https://img.shields.io/badge/Memgraph-FB6E00?style=for-the-badge" alt="Memgraph" />
   <img src="https://img.shields.io/badge/Cube.js-6E44FF?style=for-the-badge" alt="Cube.js" />
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
-Cloud & Infraestructura
+
+**Cloud & Infraestructura**
 
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
@@ -39,7 +43,8 @@ Cloud & Infraestructura
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
-Arquitectura
+
+**Arquitectura**
 
 <p>
   <img src="https://img.shields.io/badge/ArchiMate-000000?style=for-the-badge" alt="ArchiMate" />
@@ -47,7 +52,8 @@ Arquitectura
   <img src="https://img.shields.io/badge/C4%20Model-1168BD?style=for-the-badge" alt="C4 Model" />
   <img src="https://img.shields.io/badge/DDD-6A1B9A?style=for-the-badge" alt="DDD" />
 </p>
-Lenguajes & Herramientas
+
+**Lenguajes & Herramientas**
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -57,6 +63,6 @@ Lenguajes & Herramientas
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/claudio-s-72959319">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/claudiosantander">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:clausant@gmail.com">clausant@gmail.com</a>
 </p>
