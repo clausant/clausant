@@ -34,15 +34,15 @@ Experimentos y material propio. Nada de esto viene de sistemas productivos de mi
 
 Simuladores AIF-C01 — Preparación para AWS Certified AI Practitioner con la distribución oficial por dominio, los cuatro tipos de pregunta, modo estudio y modo examen con scoring escalado.
 
-<img src="https://img.shields.io/badge/Abrir%20simulador-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Abrir simulador" />
+<a href="https://aif-c01-site.vercel.app/"><img src="https://img.shields.io/badge/Abrir%20simulador-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Abrir simulador" /></a>
 
 Curso interactivo de Python — Python ejecutándose completo en el navegador con Pyodide: sin instalación, sin backend, con seguimiento de progreso local y sesiones cronometradas.
 
-<img src="https://img.shields.io/badge/Abrir%20curso-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Abrir curso" />
+<a href="https://gilded-salamander-97fefb.netlify.app/"><img src="https://img.shields.io/badge/Abrir%20curso-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Abrir curso" /></a>
 
 Repaso — Aplicación de repaso de estudio client-side, con seguimiento de avance por sesión.
 
-<img src="https://img.shields.io/badge/Abrir%20app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Abrir app" />
+<a href="https://clinquant-nougat-8f8cbe.netlify.app/"><img src="https://img.shields.io/badge/Abrir%20app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Abrir app" /></a>
 
 Stack
 
@@ -65,6 +65,6 @@ Lenguajes
 
 Escribo sobre arquitectura de agentes, gobierno de datos y lo que se rompe cuando la IA sale de la demo.
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> <img src="https://img.shields.io/badge/clausant@gmail.com-C8553D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="https://www.linkedin.com/in/claudiosantander"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:clausant@gmail.com"><img src="https://img.shields.io/badge/clausant@gmail.com-C8553D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
