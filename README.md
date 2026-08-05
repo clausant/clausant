@@ -1,68 +1,41 @@
-## Sobre mí
+Claudio Santander
 
-Llevo casi dos décadas en tecnología y los últimos años me dedico a lo mismo: armar áreas desde cero. Arquitectura empresarial, gobierno de datos y plataformas de IA que llegan a producción — no que se quedan en PoC.
+Subgerente de Arquitectura TI y Datos · Santiago, Chile
 
-Me gusta meterme al detalle: diseñar, decidir y bajar a terreno, más que gobernar desde lejos. Soy curioso y bastante obsesivo con que las cosas queden bien hechas. Disfruto enseñar y escribir sobre lo que aprendo; parte de lo que hay acá son experimentos de eso.
+Construyo áreas de IA, datos y arquitectura desde cero y las llevo a producción. Perfil hands-on: diseño, decido y bajo a terreno, más que gobernar desde lejos.
 
-## En qué trabajo
+En qué trabajo
 
-🤖 **IA en producción** — asistentes multi-agente sobre Bedrock/Claude (supervisor + especialistas), motores de recomendación y pricing con SageMaker, RAG sobre grafos de código con Memgraph. Servidor MCP propio conectado a mis sistemas (Athena, OpenSearch, Jira, Confluence, GitHub). Todo con desarrollo spec-driven, contract testing de agentes, guardrails y observabilidad.
+IA en producción Agentes sobre Amazon Bedrock y Claude, en arquitecturas de supervisor y de agente único según el caso. Servidores MCP propios que conectan los agentes a fuentes de datos, capa semántica y herramientas de trabajo. Modelos de ML para recomendación, pricing y predicción de fuga.
 
-🏛️ **Arquitectura empresarial multipaís** — modelos de referencia, gobierno de APIs y migración de legados a escala (4 países, cientos de integraciones, SAP y microservicios).
+Lo que me interesa acá no es el demo, es el ciclo de vida: especificación antes del código, contract testing de agentes, gates de aprobación, guardrails y observabilidad. Un agente sin contrato ni telemetría no es un producto, es un experimento con usuarios reales.
 
-🗄️ **Datos** — DataLake Medallion (S3/Glue/Athena/Redshift), catalogación, capa semántica y gobierno con metodología DAMA.
+Datos Arquitecturas lakehouse por capas sobre object storage, con formatos transaccionales abiertos y orquestación serverless. Capa semántica como contrato único de métricas: la misma definición sirve a BI, a las apps y a los agentes. Catálogo, linaje y gobierno con metodología DAMA-DMBOK, comité formal y data owners por dominio de negocio.
 
-☁️ **Cloud** — principalmente AWS; también GCP y Azure.
+Arquitectura empresarial Modelos de referencia, gobierno de APIs, dominios y bounded contexts, migración de legados a microservicios. Experiencia multipaís en distribución, automotriz, logística, minería, retail y telecom.
 
-## Stack
+Cloud y plataforma Principalmente AWS; también GCP y Azure. DevSecOps con IaC sobre arquitectura multi-cuenta, CI/CD, métricas DORA y observabilidad centralizada.
 
-**IA & Datos**
+Proyectos
 
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Amazon Bedrock" />
-  <img src="https://img.shields.io/badge/SageMaker-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="SageMaker" />
-  <img src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/Strands%20Agents-4B5563?style=for-the-badge" alt="Strands Agents" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-  <img src="https://img.shields.io/badge/Memgraph-FB6E00?style=for-the-badge" alt="Memgraph" />
-  <img src="https://img.shields.io/badge/Cube.js-6E44FF?style=for-the-badge" alt="Cube.js" />
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
+Experimentos y material propio. Nada de esto viene de sistemas productivos de mis empleadores.
 
-**Cloud & Infraestructura**
+	
+Simuladores AIF-C01	Preparación para AWS Certified AI Practitioner: distribución oficial por dominio, los cuatro tipos de pregunta, modo estudio y modo examen con scoring escalado.
+Curso interactivo de Python	Python ejecutándose completo en el navegador con Pyodide: sin instalación, sin backend, con seguimiento de progreso local y sesiones cronometradas.
+repo-3	Qué demuestra, en una línea.
+Stack
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
+IA y datos · Claude · Amazon Bedrock · SageMaker · Strands · MCP · RAG · Cube.js · Memgraph · OpenSearch · Delta Lake · Glue · Athena · OpenMetadata · PostgreSQL/pgvector
 
-**Arquitectura**
+Cloud e infraestructura · AWS · GCP · Azure · Terraform · Kubernetes · Docker · GitHub Actions · OpenTelemetry
 
-<p>
-  <img src="https://img.shields.io/badge/ArchiMate-000000?style=for-the-badge" alt="ArchiMate" />
-  <img src="https://img.shields.io/badge/TOGAF-1E88E5?style=for-the-badge" alt="TOGAF" />
-  <img src="https://img.shields.io/badge/C4%20Model-1168BD?style=for-the-badge" alt="C4 Model" />
-  <img src="https://img.shields.io/badge/DDD-6A1B9A?style=for-the-badge" alt="DDD" />
-</p>
+Arquitectura · TOGAF 9 · ArchiMate 3 · C4 · DDD · ADRs · OpenAPI
 
-**Lenguajes & Herramientas**
+Lenguajes · TypeScript · Python · Node.js · SQL
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+Escribo sobre
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/claudiosantander">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:clausant@gmail.com">clausant@gmail.com</a>
-</p>
+Arquitectura de agentes, gobierno de datos y lo que se rompe cuando la IA sale de la demo.
+
+sitio · LinkedIn · clausant@gmail.com
