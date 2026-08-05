@@ -1,6 +1,6 @@
 <div align="center">
 
-# Claudio Santander
+# Claudio Santander H
 
 **Subgerente de Arquitectura TI y Datos** · Santiago, Chile
 
