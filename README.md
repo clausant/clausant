@@ -44,15 +44,15 @@ Principalmente AWS; también GCP y Azure. DevSecOps con IaC sobre arquitectura m
 
 Experimentos y material propio. Nada de esto viene de sistemas productivos de mis empleadores.
 
-**Simuladores AIF-C01** — Preparación para AWS Certified AI Practitioner con la distribución oficial por dominio, los cuatro tipos de pregunta, modo estudio y modo examen con scoring escalado.
+**[Simuladores AIF-C01](https://aif-c01-site.vercel.app/)** — Preparación para AWS Certified AI Practitioner con la distribución oficial por dominio, los cuatro tipos de pregunta, modo estudio y modo examen con scoring escalado.
 
 <a href="https://aif-c01-site.vercel.app/"><img src="https://img.shields.io/badge/Abrir%20simulador-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Abrir simulador" /></a>
 
-**Curso interactivo de Python** — Python ejecutándose completo en el navegador con Pyodide: sin instalación, sin backend, con seguimiento de progreso local y sesiones cronometradas.
+**[Curso interactivo de Python](https://gilded-salamander-97fefb.netlify.app/)** — Python ejecutándose completo en el navegador con Pyodide: sin instalación, sin backend, con seguimiento de progreso local y sesiones cronometradas.
 
 <a href="https://gilded-salamander-97fefb.netlify.app/"><img src="https://img.shields.io/badge/Abrir%20curso-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Abrir curso" /></a>
 
-**Repaso** — Aplicación de repaso de estudio client-side, con seguimiento de avance por sesión.
+**[Repaso](https://clinquant-nougat-8f8cbe.netlify.app/)** — Aplicación de repaso de estudio client-side, con seguimiento de avance por sesión.
 
 <a href="https://clinquant-nougat-8f8cbe.netlify.app/"><img src="https://img.shields.io/badge/Abrir%20app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Abrir app" /></a>
 
